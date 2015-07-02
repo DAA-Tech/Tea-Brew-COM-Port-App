@@ -1,0 +1,24 @@
+C:\Users\carl\Documents\Visual Studio 2005\Projects\ComPortDemo\ComPortDemo\obj\Debug\ComPortDemo.exe
+C:\Users\carl\Documents\Visual Studio 2005\Projects\ComPortDemo\ComPortDemo\obj\Debug\ComPortDemo.pdb
+C:\Users\carl\Documents\Visual Studio 2005\Projects\ComPortDemo\ComPortDemo\bin\Debug\ComPortDemo.exe
+C:\Users\carl\Documents\Visual Studio 2005\Projects\ComPortDemo\ComPortDemo\bin\Debug\ComPortDemo.pdb
+C:\Users\carl\Documents\Visual Studio 2005\Projects\ComPortDemo\ComPortDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\carl\Documents\Visual Studio 2005\Projects\ComPortDemo\ComPortDemo\obj\Debug\ComPortDemo.Form1.resources
+C:\Users\carl\Documents\Visual Studio 2005\Projects\ComPortDemo\ComPortDemo\obj\Debug\ComPortDemo.Properties.Resources.resources
+C:\Users\carl\Documents\Visual Studio 2005\Projects\ComPortDemo\ComPortDemo\obj\Debug\ComPortDemo.csproj.GenerateResource.Cache
+C:\Users\carl\Documents\Visual Studio 2005\Projects\ComPortDemo\ComPortDemo\obj\Release\ResolveAssemblyReference.cache
+C:\Users\carl\Documents\Visual Studio 2005\Projects\ComPortDemo\ComPortDemo\obj\Release\ComPortDemo.Form1.resources
+C:\Users\carl\Documents\Visual Studio 2005\Projects\ComPortDemo\ComPortDemo\obj\Release\ComPortDemo.Properties.Resources.resources
+C:\Users\carl\Documents\Visual Studio 2005\Projects\ComPortDemo\ComPortDemo\obj\Release\ComPortDemo.csproj.GenerateResource.Cache
+C:\Users\carl\Documents\Visual Studio 2005\Projects\ComPortDemo\ComPortDemo\bin\Release\ComPortDemo.exe
+C:\Users\carl\Documents\Visual Studio 2005\Projects\ComPortDemo\ComPortDemo\bin\Release\ComPortDemo.pdb
+C:\Users\carl\Documents\Visual Studio 2005\Projects\ComPortDemo\ComPortDemo\obj\Release\ComPortDemo.exe
+C:\Users\carl\Documents\Visual Studio 2005\Projects\ComPortDemo\ComPortDemo\obj\Release\ComPortDemo.pdb
+P:\Carl\ComPortDemo\ComPortDemo\obj\Debug\ComPortDemo.exe
+P:\Carl\ComPortDemo\ComPortDemo\obj\Debug\ComPortDemo.pdb
+P:\Carl\ComPortDemo\ComPortDemo\bin\Debug\ComPortDemo.exe
+P:\Carl\ComPortDemo\ComPortDemo\bin\Debug\ComPortDemo.pdb
+P:\Carl\ComPortDemo\ComPortDemo\obj\Debug\ResolveAssemblyReference.cache
+P:\Carl\ComPortDemo\ComPortDemo\obj\Debug\ComPortDemo.Form1.resources
+P:\Carl\ComPortDemo\ComPortDemo\obj\Debug\ComPortDemo.Properties.Resources.resources
+P:\Carl\ComPortDemo\ComPortDemo\obj\Debug\ComPortDemo.csproj.GenerateResource.Cache

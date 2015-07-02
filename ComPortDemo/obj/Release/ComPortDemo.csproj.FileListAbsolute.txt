@@ -1,0 +1,7 @@
+C:\Users\Ayodele\Desktop\Software Test\ComPortDemo\ComPortDemo\obj\Release\ComPortDemo.exe
+C:\Users\Ayodele\Desktop\Software Test\ComPortDemo\ComPortDemo\obj\Release\ComPortDemo.pdb
+C:\Users\Ayodele\Desktop\Software Test\ComPortDemo\ComPortDemo\bin\Release\ComPortDemo.exe
+C:\Users\Ayodele\Desktop\Software Test\ComPortDemo\ComPortDemo\bin\Release\ComPortDemo.pdb
+C:\Users\Ayodele\Desktop\Software Test\ComPortDemo\ComPortDemo\obj\Release\ComPortDemo.Form1.resources
+C:\Users\Ayodele\Desktop\Software Test\ComPortDemo\ComPortDemo\obj\Release\ComPortDemo.Properties.Resources.resources
+C:\Users\Ayodele\Desktop\Software Test\ComPortDemo\ComPortDemo\obj\Release\ComPortDemo.csproj.GenerateResource.Cache

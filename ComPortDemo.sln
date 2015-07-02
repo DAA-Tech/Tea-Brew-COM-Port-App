@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComPortDemo", "ComPortDemo\ComPortDemo.csproj", "{C00018B4-2B3F-46DA-84BF-66A2699E767C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C00018B4-2B3F-46DA-84BF-66A2699E767C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C00018B4-2B3F-46DA-84BF-66A2699E767C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C00018B4-2B3F-46DA-84BF-66A2699E767C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C00018B4-2B3F-46DA-84BF-66A2699E767C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

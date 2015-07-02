@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ComPortDemo">
+</Property><Property Name="Solution File" Value="F:\DotNet-Examples\ComPortDemo\ComPortDemo.sln">
+</Property><Property Name="User Options File" Value="F:\DotNet-Examples\ComPortDemo\ComPortDemo.suo">
+</Property><Property Name="Date" Value="23 January 2014">
+</Property><Property Name="Time" Value="20:55">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ComPortDemo.sln" Description="File successfully backed up as F:\DotNet-Examples\ComPortDemo\Backup1\ComPortDemo.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ComPortDemo.suo" Description="File successfully backed up as F:\DotNet-Examples\ComPortDemo\Backup1\ComPortDemo.suo">
+</Event><Event ErrorLevel="0" Project="ComPortDemo" Source="ComPortDemo\ComPortDemo.csproj" Description="Project file successfully backed up as F:\DotNet-Examples\ComPortDemo\Backup1\ComPortDemo\ComPortDemo.csproj">
+</Event><Event ErrorLevel="0" Project="ComPortDemo" Source="ComPortDemo\Form1.cs" Description="File successfully backed up as F:\DotNet-Examples\ComPortDemo\Backup1\ComPortDemo\Form1.cs">
+</Event><Event ErrorLevel="0" Project="ComPortDemo" Source="ComPortDemo\Form1.Designer.cs" Description="File successfully backed up as F:\DotNet-Examples\ComPortDemo\Backup1\ComPortDemo\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ComPortDemo" Source="ComPortDemo\Program.cs" Description="File successfully backed up as F:\DotNet-Examples\ComPortDemo\Backup1\ComPortDemo\Program.cs">
+</Event><Event ErrorLevel="0" Project="ComPortDemo" Source="ComPortDemo\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\DotNet-Examples\ComPortDemo\Backup1\ComPortDemo\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ComPortDemo" Source="ComPortDemo\Properties\Resources.Designer.cs" Description="File successfully backed up as F:\DotNet-Examples\ComPortDemo\Backup1\ComPortDemo\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ComPortDemo" Source="ComPortDemo\Properties\Settings.Designer.cs" Description="File successfully backed up as F:\DotNet-Examples\ComPortDemo\Backup1\ComPortDemo\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ComPortDemo" Source="ComPortDemo\Properties\Settings.settings" Description="File successfully backed up as F:\DotNet-Examples\ComPortDemo\Backup1\ComPortDemo\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ComPortDemo" Source="ComPortDemo\Form1.resx" Description="File successfully backed up as F:\DotNet-Examples\ComPortDemo\Backup1\ComPortDemo\Form1.resx">
+</Event><Event ErrorLevel="0" Project="ComPortDemo" Source="ComPortDemo\Properties\Resources.resx" Description="File successfully backed up as F:\DotNet-Examples\ComPortDemo\Backup1\ComPortDemo\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ComPortDemo" Source="ComPortDemo\ComPortDemo.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ComPortDemo" Source="ComPortDemo\ComPortDemo.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ComPortDemo.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ComPortDemo.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ComPortDemo" Source="ComPortDemo\ComPortDemo.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
